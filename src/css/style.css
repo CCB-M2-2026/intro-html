@@ -1,0 +1,17 @@
+*{
+    list-style: none;
+}
+
+h1{
+    background: blue;
+    color: aliceblue;
+}
+
+.text{
+    color: pink;
+}
+
+button:hover{
+    background: red;
+}
+
